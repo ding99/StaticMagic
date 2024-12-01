@@ -1,0 +1,13 @@
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\bin\Debug\net8.0\BinarizeJpeg.deps.json
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\bin\Debug\net8.0\BinarizeJpeg.dll
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\bin\Debug\net8.0\BinarizeJpeg.pdb
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.AssemblyInfoInputs.cache
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.AssemblyInfo.cs
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.csproj.CoreCompileInputs.cache
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.sourcelink.json
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.dll
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\refint\BinarizeJpeg.dll
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.pdb
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\ref\BinarizeJpeg.dll
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.csproj.AssemblyReference.cache
