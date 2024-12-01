@@ -17,3 +17,4 @@ D:\ProG\CS\StaticMagic\Apps\ClearLogo\obj\Debug\net8.0\refint\ClearLogo.dll
 D:\ProG\CS\StaticMagic\Apps\ClearLogo\obj\Debug\net8.0\ClearLogo.pdb
 D:\ProG\CS\StaticMagic\Apps\ClearLogo\obj\Debug\net8.0\ClearLogo.genruntimeconfig.cache
 D:\ProG\CS\StaticMagic\Apps\ClearLogo\obj\Debug\net8.0\ref\ClearLogo.dll
+D:\ProG\CS\StaticMagic\Apps\ClearLogo\bin\Debug\net8.0\SixLabors.ImageSharp.dll

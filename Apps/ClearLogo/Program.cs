@@ -1,4 +1,4 @@
-﻿using BinarizeJpeg;
+﻿using ImageLibs.BinarizeJpeg;
 
 if (args.Length < 1) {
     Console.WriteLine("usage: clearlogo <path>");

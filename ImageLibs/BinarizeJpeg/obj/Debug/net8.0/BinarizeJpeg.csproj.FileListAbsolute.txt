@@ -10,3 +10,4 @@ D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.dll
 D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\refint\BinarizeJpeg.dll
 D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.pdb
 D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\ref\BinarizeJpeg.dll
+D:\ProG\CS\StaticMagic\ImageLibs\BinarizeJpeg\obj\Debug\net8.0\BinarizeJpeg.csproj.AssemblyReference.cache
