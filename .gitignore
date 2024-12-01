@@ -10,6 +10,13 @@
 *.userosscache
 *.sln.docstates
 
+## solution
+StaticMagic/bin/
+StaticMagic/obj/
+.vs/StaticMagic/v16/.suo
+.vs/StaticMagic/
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

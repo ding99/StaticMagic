@@ -2,7 +2,7 @@
   "profiles": {
     "ClearLogo": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\workFolder\\images\\logo\\black\\FLPC.jpg"
+      "commandLineArgs": "D:\\workFolder\\images\\logo\\FLPC.jpg"
     }
   }
 }
