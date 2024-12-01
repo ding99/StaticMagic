@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClearLogo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+395a5e50c945452636561002f4197efb71b81f37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08f162293a70f01a2d42064f07bec4100615cb1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClearLogo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClearLogo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
