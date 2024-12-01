@@ -1,0 +1,14 @@
+D:\ProG\CS\StaticMagic\BinarizationLogo\bin\Debug\net8.0\BinarizationLogo.exe
+D:\ProG\CS\StaticMagic\BinarizationLogo\bin\Debug\net8.0\BinarizationLogo.deps.json
+D:\ProG\CS\StaticMagic\BinarizationLogo\bin\Debug\net8.0\BinarizationLogo.runtimeconfig.json
+D:\ProG\CS\StaticMagic\BinarizationLogo\bin\Debug\net8.0\BinarizationLogo.dll
+D:\ProG\CS\StaticMagic\BinarizationLogo\bin\Debug\net8.0\BinarizationLogo.pdb
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.AssemblyInfoInputs.cache
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.AssemblyInfo.cs
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.csproj.CoreCompileInputs.cache
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.dll
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\refint\BinarizationLogo.dll
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.pdb
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\BinarizationLogo.genruntimeconfig.cache
+D:\ProG\CS\StaticMagic\BinarizationLogo\obj\Debug\net8.0\ref\BinarizationLogo.dll
