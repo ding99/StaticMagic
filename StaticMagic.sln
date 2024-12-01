@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarizationLogo", "BinarizationLogo\BinarizationLogo.csproj", "{22D2158E-16E7-43FC-9476-183FA09DC563}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{2DFC9C3E-294B-4153-AD7E-A15D883C5FC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImageLibs", "ImageLibs", "{06BFA306-0471-416B-9D7E-31379EB00025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearLogo", "Apps\ClearLogo\ClearLogo.csproj", "{BB5C7288-CF17-4C6B-8818-BD2F56BFD052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarizeJpeg", "ImageLibs\BinarizeJpeg\BinarizeJpeg.csproj", "{F517C4D8-FBE8-4047-B483-BA5ECDD16473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +17,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22D2158E-16E7-43FC-9476-183FA09DC563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22D2158E-16E7-43FC-9476-183FA09DC563}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22D2158E-16E7-43FC-9476-183FA09DC563}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22D2158E-16E7-43FC-9476-183FA09DC563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5C7288-CF17-4C6B-8818-BD2F56BFD052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5C7288-CF17-4C6B-8818-BD2F56BFD052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5C7288-CF17-4C6B-8818-BD2F56BFD052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5C7288-CF17-4C6B-8818-BD2F56BFD052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F517C4D8-FBE8-4047-B483-BA5ECDD16473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F517C4D8-FBE8-4047-B483-BA5ECDD16473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F517C4D8-FBE8-4047-B483-BA5ECDD16473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F517C4D8-FBE8-4047-B483-BA5ECDD16473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB5C7288-CF17-4C6B-8818-BD2F56BFD052} = {2DFC9C3E-294B-4153-AD7E-A15D883C5FC1}
+		{F517C4D8-FBE8-4047-B483-BA5ECDD16473} = {06BFA306-0471-416B-9D7E-31379EB00025}
 	EndGlobalSection
 EndGlobal

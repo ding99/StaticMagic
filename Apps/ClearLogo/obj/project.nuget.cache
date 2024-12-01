@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R97CObEbJWM=",
+  "success": true,
+  "projectFilePath": "D:\\ProG\\CS\\StaticMagic\\Apps\\ClearLogo\\ClearLogo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ding_\\.nuget\\packages\\sixlabors.imagesharp\\3.1.6\\sixlabors.imagesharp.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
